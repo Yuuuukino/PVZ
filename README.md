@@ -12,15 +12,28 @@ main(2).py是修复上述bug后的主函数(但是我懒得再打包了，所以
 
 感谢当初找出这个bug的同学，于是我将bug做成了彩蛋(其实是懒得再打包，笑)
 
-
-
-
-
-
-
-
 库：pygame 打包工具：pyinstaller
 
 （Thanks for searching bugs！！）
 
 （我当然知道还有很多bug！但是你要知道一个人的能力是有限的！）
+
+Homework for PVZ
+
+Press the space bar to pause
+
+There are two main functions, main.py, which have a bug: pause the game and the sun continues to fall
+
+The EXE in play is packaged with main.py
+
+Main (2).py is the main function after fixing the above bug (but I'm too lazy to pack any more, so the exe is the last version)
+
+By the way, if it wasn't for a bug in main, it would have been impossible (I couldn't get through anyway).
+
+Thanks to the students who found this bug, so I made the bug into an Easter egg (in fact, it is too lazy to pack again, laugh).
+
+Library: PyGame Packaging tool: PyInstaller
+
+Thanks for Searching bugs!!
+
+(OF course I know there are many bugs! But you have to know that a person's ability is limited!
