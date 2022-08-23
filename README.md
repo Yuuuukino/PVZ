@@ -1,9 +1,9 @@
-# PVZ课设作业
+# PVZ
 
-按空格键可以暂停
+程序设计课设
 
-库：pygame 打包工具：pyinstaller
+按空格键暂停
 
-（Thanks for searching bugs！！）
+库：pygame
 
-（我当然知道还有很多bug！但是你要知道一个人的能力是有限的！）
+打包工具：pyinstaller
